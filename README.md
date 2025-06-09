@@ -26,12 +26,14 @@
 
 ### 👨‍💻 À propos de moi
 
-Passionné par la convergence entre le logiciel et l'intelligence, je construis des ponts entre les données brutes et les insights exploitables. Mon objectif est de développer des solutions IA pratiques, robustes et centrées sur l'utilisateur.
+Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon approche consiste à gérer le cycle de vie complet d'un projet IA pour garantir son succès.
 
-- 🔭 Je me spécialise dans la conception d'**Agents IA** dotés de capacités avancées : recherche sur base de connaissances (**RAG**), utilisation d'outils externes (**MCP**), interaction avec le système (**computer use**) et génération dans des espaces créatifs (**Canvas**).
-- 💬 J'adore transformer des processus complexes en **workflows automatisés et intelligents** qui génèrent des gains de productivité mesurables.
-- 🚀 Actuellement disponible pour des **missions freelance** ambitieuses où la technologie a un impact réel.
-- 🌱 Je suis toujours en train d'explorer les dernières nouveautés d'IA Générative pour proposer des solutions innovantes.
+-   **Analyse & Architecture** : Je commence par comprendre votre besoin pour concevoir une architecture robuste, scalable et adaptée.
+-   **Développement d'Agents IA** : Je me spécialise dans la conception d'**Agents IA** dotés de capacités avancées : RAG, outils externes (MCP), interaction système (computer use) et Canvas.
+-   **Intégration & Déploiement** : Je m'assure que la solution s'intègre parfaitement à votre environnement existant et je pilote son déploiement.
+-   **Création de valeur** : Mon objectif final est de livrer un produit qui non seulement fonctionne, mais qui génère des gains de productivité mesurables et un impact métier positif.
+
+🚀 Actuellement disponible pour des **missions freelance** ambitieuses.
 
 ---
 
