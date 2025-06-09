@@ -76,7 +76,7 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
   </tr>
   <tr>
     <td align="center">
-      <img src="https://images.langchain.com/LangChain_Icon_Main_Color.png" width="40" height="40" alt="LangChain" /><br>LangChain
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="40" height="40" alt="LangChain" /><br>LangChain
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
@@ -93,7 +93,7 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-icon.svg" width="40" height="40" alt="Pydantic" /><br>Pydantic AI
+      <img src="https://ai.pydantic.dev/img/pydantic-ai-dark.svg#only-dark" width="40" height="40" alt="Pydantic" /><br>Pydantic AI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>Spring Boot
