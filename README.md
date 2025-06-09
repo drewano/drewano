@@ -102,6 +102,9 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
       <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/gradio-color.png" width="40" height="40" alt="Gradio" /><br>Gradio
     </td>
     <td align="center">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" /><br>Supabase
+    </td>
+    <td align="center">
       <!-- Placeholder -->
     </td>
     <td align="center">
