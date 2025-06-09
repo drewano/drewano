@@ -93,13 +93,13 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-icon.svg" width="40" height="40" alt="Pydantic" /><br>Pydantic
+      <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-icon.svg" width="40" height="40" alt="Pydantic" /><br>Pydantic AI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center">
-      <!-- Placeholder -->
+      <img src="https://www.gradio.app/logo.svg" width="40" height="40" alt="Gradio" /><br>Gradio
     </td>
     <td align="center">
       <!-- Placeholder -->
