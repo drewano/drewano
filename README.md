@@ -126,7 +126,7 @@ Passionné par la convergence entre le logiciel et l'intelligence, je construis 
       <td><code>Browser Extension</code> <code>React</code> <code>TypeScript</code> <code>Ollama</code> <code>PKM</code> <code>RAG</code></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/drewano/rag-intelligent-agent"><strong>📄 RAG Intelligent Agent</strong></a></td>
+      <td><a href="https://github.com/drewano/docasis-proto"><strong>📄 RAG Intelligent Agent</strong></a></td>
       <td>Pipeline RAG complet avec Gemini, Qdrant et Streamlit pour créer un agent conversationnel expert de votre base de connaissances.</td>
       <td><code>RAG</code> <code>Python</code> <code>LangChain</code> <code>Gemini</code> <code>Qdrant</code> <code>Streamlit</code></td>
     </tr>
