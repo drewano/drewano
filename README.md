@@ -4,8 +4,8 @@
     Bonjour, je suis Andrew Assef 👋
     <br/>
   </h1>
-  <h3 align="center">Ingénieur en Intelligence Artificielle & Développeur Python</h3>
-  <h4 align="center">Je conçois des applications intelligentes et des agents conversationnels (RAG) qui transforment les données en réponses pertinentes.</h4>
+  <h3 align="center">Ingénieur Projet en IA Générative</h3>
+  <h4 align="center">Je conçois des applications intelligentes et des agents IA qui transforment les données en réponses pertinentes.</h4>
 </div>
 
 <div align="center">
