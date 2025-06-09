@@ -27,10 +27,11 @@
 
 Passionné par la convergence entre le logiciel et l'intelligence, je construis des ponts entre les données brutes et les insights exploitables. Mon objectif est de développer des solutions IA pratiques, robustes et centrées sur l'utilisateur.
 
-- 🔭 Je me spécialise dans les **architectures RAG** pour créer des agents conversationnels experts.
+- 🎯 **Focus sur la valeur ajoutée** : Avant tout, je m'assure que chaque solution IA développée répond à un enjeu métier clair et apporte un retour sur investissement tangible.
+- 🔭 Je me spécialise dans la création d'**Agents IA autonomes**, capables d'utiliser des connaissances (**RAG**), des outils (**MCP**) et de piloter des environnements de bureau (**computer use & canvas**).
 - 💬 J'adore transformer des processus complexes en **workflows automatisés et intelligents**.
 - 🚀 Actuellement disponible pour des **missions freelance** ambitieuses.
-- 🌱 Je suis toujours en train d'explorer les nouvelles frontières de l'IA, notamment les **agents autonomes** et les **modèles multimodaux**.
+- 🌱 Je suis toujours en train d'explorer les dernières nouveautés d'IA Générative.
 
 ---
 
