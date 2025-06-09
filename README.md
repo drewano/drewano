@@ -135,7 +135,7 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
     </tr>
     <tr>
       <td><a href="https://github.com/drewano/MCP-data-inclusion"><strong>🔗 MCP Data Inclusion Server</strong></a></td>
-      <td>Un serveur MCP pour connecter votre assistant IA (Claude, etc.) à l'API publique data.inclusion.</td>
+      <td>Un serveur MCP pour connecter votre Agent IA (Claude, etc.) à l'API publique data.inclusion.</td>
       <td><code>MCP</code> <code>Agent Tools</code> <code>Python</code> <code>FastAPI</code> <code>API</code></td>
     </tr>
   </tbody>
