@@ -1,3 +1,4 @@
+      
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlhNGRkNmJjdGczZmo1c213aGk1MmJzeHF4b3c2azl6MWxzemRiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rSCVJasn8uZP2/giphy.gif" width="100"/>
   <h1>
@@ -5,7 +6,7 @@
     <br/>
   </h1>
   <h3 align="center">Ingénieur Projet en IA Générative</h3>
-  <h4 align="center">Je conçois des applications intelligentes et des Agents IA.</h4>
+  <h4 align="center">Je pilote des projets IA de l'idée à la production, en créant des solutions qui apportent une réelle valeur métier.</h4>
 </div>
 
 <div align="center">
