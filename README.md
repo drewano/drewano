@@ -5,7 +5,7 @@
     <br/>
   </h1>
   <h3 align="center">Ingénieur Projet en IA Générative</h3>
-  <h4 align="center">Je conçois des applications intelligentes et des agents IA qui transforment les données en réponses pertinentes.</h4>
+  <h4 align="center">Je conçois des applications intelligentes et des Agents IA.</h4>
 </div>
 
 <div align="center">
@@ -27,11 +27,10 @@
 
 Passionné par la convergence entre le logiciel et l'intelligence, je construis des ponts entre les données brutes et les insights exploitables. Mon objectif est de développer des solutions IA pratiques, robustes et centrées sur l'utilisateur.
 
-- 🎯 **Focus sur la valeur ajoutée** : Avant tout, je m'assure que chaque solution IA développée répond à un enjeu métier clair et apporte un retour sur investissement tangible.
-- 🔭 Je me spécialise dans la création d'**Agents IA autonomes**, capables d'utiliser des connaissances (**RAG**), des outils (**MCP**) et de piloter des environnements de bureau (**computer use & canvas**).
-- 💬 J'adore transformer des processus complexes en **workflows automatisés et intelligents**.
-- 🚀 Actuellement disponible pour des **missions freelance** ambitieuses.
-- 🌱 Je suis toujours en train d'explorer les dernières nouveautés d'IA Générative.
+- 🔭 Je me spécialise dans la conception d'**Agents IA** dotés de capacités avancées : recherche sur base de connaissances (**RAG**), utilisation d'outils externes (**MCP**), interaction avec le système (**computer use**) et génération dans des espaces créatifs (**Canvas**).
+- 💬 J'adore transformer des processus complexes en **workflows automatisés et intelligents** qui génèrent des gains de productivité mesurables.
+- 🚀 Actuellement disponible pour des **missions freelance** ambitieuses où la technologie a un impact réel.
+- 🌱 Je suis toujours en train d'explorer les dernières nouveautés d'IA Générative pour proposer des solutions innovantes.
 
 ---
 
