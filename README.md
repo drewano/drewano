@@ -99,7 +99,7 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center">
-      <img src="https://www.gradio.app/logo.svg" width="40" height="40" alt="Gradio" /><br>Gradio
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.46.0/files/dark/gradio-color.png" width="40" height="40" alt="Gradio" /><br>Gradio
     </td>
     <td align="center">
       <!-- Placeholder -->
