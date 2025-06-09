@@ -6,7 +6,7 @@
     <br/>
   </h1>
   <h3 align="center">Ingénieur Projet en IA Générative</h3>
-  <h4 align="center">Je pilote des projets IA de l'idée à la production, en créant des solutions qui apportent une réelle valeur métier.</h4>
+  <h4 align="center">Je réalise des projets IA de l'idée à la production, en créant des solutions qui apportent une réelle valeur métier.</h4>
 </div>
 
 <div align="center">
