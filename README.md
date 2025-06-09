@@ -68,7 +68,7 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>React
     </td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/qdrant/qdrant-icon.svg" width="40" height="40" alt="Qdrant" /><br>Qdrant
+      <img src="https://qdrant.tech/img/qdrant-logo.svg" width="40" height="40" alt="Qdrant" /><br>Qdrant
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /><br>Docker
