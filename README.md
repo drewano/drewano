@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGgxa2xteDBqcGEyYTFlb2I4cGJvM3hsaHptejh0ZHFnN3RhdTZ6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkXNjAkG7CfEVx3gcy/giphy.gif" width="100"/>
   <h1>
-    Bonjour, je suis Andrew Assef 👋
+    Bonjour, je suis Andrew Assef 👋🏽
     <br/>
   </h1>
   <h3 align="center">Ingénieur Projet en IA Générative</h3>
@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍💻 À propos de moi
+### 👨🏽‍💻 À propos de moi
 
 Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon approche consiste à gérer le cycle de vie complet d'un projet IA pour garantir son succès.
 
