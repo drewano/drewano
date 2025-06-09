@@ -79,10 +79,10 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
       <img src="https://images.langchain.com/LangChain_Icon_Main_Color.png" width="40" height="40" alt="LangChain" /><br>LangChain
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" alt="Next.js" /><br>Next.js
+     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /><br>SQL
@@ -93,36 +93,19 @@ Je ne suis pas seulement un développeur, mais un architecte de solutions. Mon a
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.gstatic.com/devrel-devsite/prod/v95b19e93540192305607cb3f2187f3286f32c327c449102c4314c6224342721e/tensorflow/images/lockup.svg" width="40" height="40" alt="TensorFlow" /><br>TensorFlow
+      <img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-icon.svg" width="40" height="40" alt="Pydantic" /><br>Pydantic
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br>TypeScript
+      <!-- Placeholder -->
     </td>
     <td align="center">
       <!-- Placeholder -->
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Actions" /><br>GitHub Actions
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Placeholder -->
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" /><br>Spring Boot
-    </td>
-    <td align="center">
-      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" width="40" height="40" alt="Streamlit" /><br>Streamlit
-    </td>
-    <td align="center">
-      <!-- Placeholder -->
-    </td>
-    <td align="center">
-      <!-- Placeholder -->
     </td>
   </tr>
 </table>
